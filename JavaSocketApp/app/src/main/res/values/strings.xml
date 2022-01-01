@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java Socket App</string>
+    <string name="start">START</string>
+</resources>
